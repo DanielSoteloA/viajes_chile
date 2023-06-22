@@ -1,6 +1,8 @@
 # Viajes Chile
 Prueba - Viajes Chile
 
+URL: https://danielsoteloa.github.io/viajes_chile/
+
 ## Recursos Externos
 
 Bootstrap 5.0
@@ -22,7 +24,7 @@ Bootstrap js
 https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js
 
 
-## Recursos Internos
+## Scripts y Estilos propios
 
 style.css
 ./assets/css/style.css
